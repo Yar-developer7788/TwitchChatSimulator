@@ -14,8 +14,12 @@ You can fork the repository, improve some features, and make a pull request.
 2. Move to directory with Twitch Simulator: `cd ~/Downloads`
 3. Give permissions to run: `chmod a+rwx ./TwitchSim\ v1.0.0`
 4. Run:  `./TwitchSim\ v1.0.0`
+
 </br>
+
 **Windows:**
+</br>
+
 ***Not yet implemented***
 
 ### Images
