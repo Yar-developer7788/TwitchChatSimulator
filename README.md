@@ -8,10 +8,14 @@ This is a fun project where you can create a simulation of a twitch chat
 You can fork the repository, improve some features, and make a pull request.
 
 ### How to run
+
+**Linux:**
 1. Open terminal (i have fish)
 2. Move to directory with Twitch Simulator: `cd ~/Downloads`
 3. Give permissions to run: `chmod a+rwx ./TwitchSim\ v1.0.0`
 4. Run:  `./TwitchSim\ v1.0.0`
+**Windows:**
+***Not yet implemented***
 
 ### Images
 <img width="1881" height="992" alt="image" src="https://github.com/user-attachments/assets/fccdcc45-ac36-4d19-b09e-e6c715cc2d21" />
