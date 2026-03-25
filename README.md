@@ -2,7 +2,7 @@
 This is simple twitch chat simulator with customizable nicknames and messages
 
 ### What is this?
-This is a fan project where you can create a simulation of a twitch chat
+This is a fun project where you can create a simulation of a twitch chat
 
 ### How i can improve project?
 You can fork the repository, improve some features, and make a pull request.
